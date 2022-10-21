@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "07234edef3f6f8e3",
+    "type": "split",
+    "children": [
+      {
+        "id": "8ff6c5eabf3fc81e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55e4df822213595e",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pronunciation of the vocal A.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "5b89c15fa4b601e9",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pronunciation of the vocal E.md",
+                "mode": "preview",
+                "source": false
+              },
+              "pinned": true
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b60da453ff4cb51d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9ed209a0d4d89af9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "edc975daf4f78173",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f38fa1023e21317b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#pronouncation",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0919e7896fc663e7",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3d85d39b08cee58d",
+    "type": "split",
+    "children": [
+      {
+        "id": "0201230d98cf02fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eac0d5664824f6a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Pronunciation of the vocal E.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e8a0c1b9478b35dc",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Pronunciation of the vocal E.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f52b372a02697f7a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a92a3b18a59b1085",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Pronunciation of the vocal E.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "edc975daf4f78173",
+  "lastOpenFiles": [
+    "Pronunciation of the vocal A.md",
+    "Pronunciation of the vocal E.md",
+    "Untitled.md",
+    "pronunciation_en_a.mp3",
+    "Monosyllabic.md",
+    "2022-10-18.md",
+    "Templates/Basic Template.md",
+    "url.md"
+  ]
+}
