@@ -1,2 +1,2 @@
 
-A word that consists in one word
+A word that consists in one **syllable**

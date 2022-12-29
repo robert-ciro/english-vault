@@ -21,7 +21,7 @@ E.g:
 - Red
 - Leg
 
-When the world is bisyllabic and the  work contains a ***th** or end with ***d** or ***f**
+When the world is bisyllabic and the  work contains a **th** or end with **d** or **f**
 
 - Death (Deth)
 - Earth (Erth)
