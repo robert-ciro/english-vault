@@ -1,0 +1,288 @@
+{
+  "Data": [
+    {
+      "Id": "1363",
+      "Name": "CATO CS NL 01a Telephony Advice",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/d38a5f1a-91e9-48fe-98d7-903352d286c7"
+      ]
+    },
+    {
+      "Id": "1364",
+      "Name": "CATO CS NL 01b Telephony Service",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/3539e808-071a-4908-b345-51b5ca1834f5"
+      ]
+    },
+    {
+      "Id": "1365",
+      "Name": "CATO CS BE 01a Telephony Advice",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/e3aea692-28d9-4095-911d-c31efc6fd121"
+      ]
+    },
+    {
+      "Id": "1366",
+      "Name": "CATO CS BE 01b Telephony Service",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/5f4c17ae-54fb-41a2-88fb-fcb5682e8896"
+      ]
+    },
+    {
+      "Id": "1367",
+      "Name": "CATO CS FR 01g Telephony Advice",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/3900c7fc-8b1a-46e3-9dcb-e520baa3864a"
+      ]
+    },
+    {
+      "Id": "1368",
+      "Name": "CATO CS FR 01g Telephony Service",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/b99eccfc-7147-4e5f-ae27-c06313961514"
+      ]
+    },
+    {
+      "Id": "1369",
+      "Name": "CATO CS DE 01b Telephony Germany",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/44bcaa6b-ec36-4a45-9143-11799798a13c",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/bffcf370-6388-4b63-b507-053855cfe99a",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/b449abbe-ecf2-410a-87f2-59f2b16bd366",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/7c75750c-ee26-421b-a817-cb950720e0ad",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/8f3c40db-87bb-4b95-a8a3-c5a14e0cfd7f",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/6bd9d81f-eacf-488e-b4b7-9cd981dee9fa",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/7716c278-0c17-4b5b-8df0-4c2ea9d1fa55"
+      ]
+    },
+    {
+      "Id": "1370",
+      "Name": "CATO SP NL 02a Telephony Advice Washing & Drying",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/babe7621-dfc5-482d-a366-abb7f88a7015"
+      ]
+    },
+    {
+      "Id": "1371",
+      "Name": "CATO SP NL 02a Telephony Service Washing & Drying",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/bc1e17f4-71ed-42b3-b1ca-2b9708334b65"
+      ]
+    },
+    {
+      "Id": "1372",
+      "Name": "CATO SP BE 02a Telephony Advice Washing & Drying",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/2d31cbca-f945-44c8-a4be-b40986a8ecf0"
+      ]
+    },
+    {
+      "Id": "1373",
+      "Name": "CATO SP BE 02a Telephony Service Washing & Drying",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/31377fce-e106-496d-bb5a-18e44eceacf0"
+      ]
+    },
+    {
+      "Id": "1374",
+      "Name": "CATO SP FR 02a Telephony Advice Washing & Drying",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/051423b9-5a34-438d-962e-4f0dd40c3416"
+      ]
+    },
+    {
+      "Id": "1375",
+      "Name": "CATO SP FR 02a Telephony Service Washing & Drying",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/71c08bc1-7ba5-46c9-8b9b-045c05e29789"
+      ]
+    },
+    {
+      "Id": "1376",
+      "Name": "CATO SP NL 02x Telephony Witgoedreparaties",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/c368f1b3-dbef-424f-9fc0-b85ba358e426"
+      ]
+    },
+    {
+      "Id": "1377",
+      "Name": "CATO SP NL 03a Telephony Advice TV & Audio",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/ad38c645-eeab-42c6-8b60-71029010905b",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/500556b9-ac1d-448c-b0ae-57175647cee1"
+      ]
+    },
+    {
+      "Id": "1378",
+      "Name": "CATO SP NL 03a Telephony Service TV & Audio",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/70ea35be-f84d-45a8-8d60-7c2a16e95634",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/3c1c6744-9a99-40fb-9889-93c699267d3a"
+      ]
+    },
+    {
+      "Id": "1379",
+      "Name": "CATO SP BE 03a Telephony Advice TV & Audio",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/14a6ded5-1d0c-4db4-a2fd-7c15533ce0d9"
+      ]
+    },
+    {
+      "Id": "1380",
+      "Name": "CATO SP BE 03a Telephony Service TV & Audio",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/d48f57b2-00db-499c-b7a4-967dbecc64be"
+      ]
+    },
+    {
+      "Id": "1381",
+      "Name": "CATO SP FR 03a Telephony Advice TV & Audio",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/910ba529-91ab-44b9-bb34-4985114a80b8"
+      ]
+    },
+    {
+      "Id": "1382",
+      "Name": "CATO SP FR 03a Telephony Service TV & Audio",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/236df3cb-6e78-486e-b110-7cf07a4d0bee"
+      ]
+    },
+    {
+      "Id": "1383",
+      "Name": "CATO SP NL 04a Telephony Payments",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/58edb3c0-3ca9-4f29-b758-767fb0ecb577"
+      ]
+    },
+    {
+      "Id": "1384",
+      "Name": "CATO SP NL 05a Telephony Advice Kitchen Appliances Large",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/0be57be9-0752-4917-8470-5418b4383857"
+      ]
+    },
+    {
+      "Id": "1385",
+      "Name": "CATO SP NL 05a Telephony Service Kitchen Appliances Large",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/b78a259d-f6a9-40b2-9155-da6238c15718"
+      ]
+    },
+    {
+      "Id": "1386",
+      "Name": "CATO SP NL 06a Telephony Advice Laptops, Gaming & Smart Home",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/b7bfa9d1-f804-4131-ab28-aa25b54e5cc9",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/14c7f49d-e86f-4c11-b2d3-dd6a0249155b",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/e4ffeaf6-6546-485f-aec4-7b9fd10389cb"
+      ]
+    },
+    {
+      "Id": "1387",
+      "Name": "CATO SP NL 06a Telephony Service Laptops, Gaming & Smart Home",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/2a1b86e8-626f-4656-bdab-ad8200d1a002",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/a1634728-c4a5-481f-8fa6-f1e8ce76bfe7",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/1a60edbe-b24a-4a93-985d-42b1d6145c1b"
+      ]
+    },
+    {
+      "Id": "1388",
+      "Name": "CATO SP NL 07a Telephony Advice TTCW",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/10c77b8a-55ce-4ff7-af33-d01730c840cb",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/e3a34d37-45b1-42fc-bad1-8717cfb04ea4"
+      ]
+    },
+    {
+      "Id": "1389",
+      "Name": "CATO SP NL 07a Telephony Service TTCW",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/7c36b5e2-5d2a-4744-8ce8-a0d70d1d5239",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/9cf6fcf1-07b0-49a8-a498-9559e45706d3"
+      ]
+    },
+    {
+      "Id": "1390",
+      "Name": "CATO SP NL 08a Telephony Advice Home, Garden & Kitchen",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/42a446b3-c13b-4993-9898-f7c43a168db3",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/40c1bfa2-e9c0-4540-967a-65a3ccc18253",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/0696c133-fdf6-44a5-b99e-5299fd548fcf"
+      ]
+    },
+    {
+      "Id": "1391",
+      "Name": "CATO SP NL 08a Telephony Service Home, Garden & Kitchen",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/6f02de39-c8fc-483f-8f04-d899015111ad",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/989a4ce1-9a1d-4ee7-919d-aa1d9ad8b3aa",
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/163f0d7a-b876-43e0-9076-f75a663e8c84"
+      ]
+    },
+    {
+      "Id": "1392",
+      "Name": "CATO CS DE 01b Telephony Germany TLOD",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/94e18962-17fc-4ea9-b6d0-1c9b3fa9c3bb"
+      ]
+    },
+    {
+      "Id": "1393",
+      "Name": "CATO CS DE 01b Telephony Germany Captain",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/1cd753b8-1974-4b23-9dae-942eeb2f5123"
+      ]
+    },
+    {
+      "Id": "1394",
+      "Name": "CATO CS DE 01b Telephony Germany Outbound",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/d56039c1-1f48-4436-9f79-2bdaf44a7ddd"
+      ]
+    },
+    {
+      "Id": "1401",
+      "Name": "CATO CS NL 01b Telephony Netherlands TLOD",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/cf88dc70-bec6-48b4-90d8-992453761323"
+      ]
+    },
+    {
+      "Id": "1402",
+      "Name": "CATO CS BE 01b Telephony Belgium TLOD",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/83e31688-466b-4f3d-a86d-53a8fc9a7166"
+      ]
+    },
+    {
+      "Id": "1403",
+      "Name": "CATO CS NL 01b Telephony Netherlands Outbound",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/821ccc9f-ef60-4f7d-8ae2-16668ece1ffb"
+      ]
+    },
+    {
+      "Id": "1404",
+      "Name": "CATO CS BE 01b Telephony Belgium Outbound",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/c348c73b-f285-40e9-8f92-4682d1fe19bd"
+      ]
+    },
+    {
+      "Id": "1405",
+      "Name": "CATO CS NL 01b Telephony Netherlands Captain",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/311def21-729a-46bc-bbc8-e38b69965491"
+      ]
+    },
+    {
+      "Id": "1419",
+      "Name": "CATO CS NL 01b Telephony Netherlands EHBO",
+      "AmazonConnectQueueArns": [
+        "arn:aws:connect:eu-central-1:476337481252:instance/3719d5e7-06ed-4e1f-9051-b29abf88953a/queue/6f01def1-1425-489b-8713-a0d2b28047d1"
+      ]
+    }
+  ]
+}
