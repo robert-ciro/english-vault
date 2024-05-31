@@ -34,9 +34,33 @@
               },
               "pinned": true
             }
+          },
+          {
+            "id": "8264602a40effec1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Pronunciation of the vocal A.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "27018dc4dcb67297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Monosyllabic.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -81,6 +105,14 @@
               "type": "starred",
               "state": {}
             }
+          },
+          {
+            "id": "6ff1453138e11f09",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
@@ -102,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pronunciation of the vocal E.md",
+                "file": "Monosyllabic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pronunciation of the vocal E.md",
+                "file": "Monosyllabic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -142,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pronunciation of the vocal E.md"
+                "file": "Monosyllabic.md"
               }
             }
           }
@@ -153,18 +185,27 @@
     "width": 300,
     "collapsed": true
   },
-  "ribbon": {
-    "mostRecentAction": ""
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
   },
-  "active": "edc975daf4f78173",
+  "active": "27018dc4dcb67297",
   "lastOpenFiles": [
-    "Pronunciation of the vocal A.md",
     "Pronunciation of the vocal E.md",
+    "Pronunciation of the vocal A.md",
+    "Monosyllabic.md",
+    "Templates/Basic Template.md",
+    "Alto B2- Oraciones Relativas/Supposed to - Meant to.md",
+    "Alto B2- Oraciones Relativas/Purpose and Intention (In order to - So as to).md",
     "Untitled.md",
     "pronunciation_en_a.mp3",
-    "Monosyllabic.md",
     "2022-10-18.md",
-    "Templates/Basic Template.md",
     "url.md"
   ]
 }
